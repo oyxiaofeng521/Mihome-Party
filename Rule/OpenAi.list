@@ -1,4 +1,7 @@
 # XIAOFENG
+# Gemini# ==============================
+# Google Gemini 核心
+# ==============================
 # 内容：OpenAi
 # 数量：16条
 DOMAIN-KEYWORD,openai
@@ -68,10 +71,7 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,x.ai
 
-# XIAOFENG
-# Gemini# ==============================
-# Google Gemini 核心
-# ==============================
+
 DOMAIN,gemini.google.com,Proxy
 DOMAIN,bard.google.com,Proxy
 DOMAIN,ai.google.dev,Proxy
